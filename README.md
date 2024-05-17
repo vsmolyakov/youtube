@@ -10,4 +10,5 @@ https://www.youtube.com/@VadimSmolyakov
 **ML from scratch**
 
 - [PCA](./ml-from-scratch/principal_component_analysis.ipynb): Principal Component Analysis  
+- [KNN](./ml-from-scratch/knn_regressor.ipynb): K Nearest Neighbors Regressor  
 
