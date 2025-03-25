@@ -11,4 +11,4 @@ https://www.youtube.com/@VadimSmolyakov
 
 - [PCA](./ml-from-scratch/principal_component_analysis.ipynb): Principal Component Analysis  
 - [KNN](./ml-from-scratch/knn_regressor.ipynb): K Nearest Neighbors Regressor  
-- [GP](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression  
+- [GPR](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression  
