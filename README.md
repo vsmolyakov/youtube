@@ -6,9 +6,10 @@ https://www.youtube.com/@VadimSmolyakov
 
 - [monte carlo integration](./ml-explained/monte_carlo_pi.ipynb): Monte Carlo integration and estimating Pi  
 
-
 **ML from scratch**
 
 - [PCA](./ml-from-scratch/principal_component_analysis.ipynb): Principal Component Analysis  
 - [KNN](./ml-from-scratch/knn_regressor.ipynb): K Nearest Neighbors Regressor  
-- [GPR](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression  
+- [GPR](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression
+- [PYT](./ml-from-scratch/pytorch_training_loop.ipynb): PyTorch Training Loop  
+
