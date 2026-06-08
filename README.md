@@ -12,4 +12,5 @@ https://www.youtube.com/@VadimSmolyakov
 - [KNN](./ml-from-scratch/knn_regressor.ipynb): K Nearest Neighbors Regressor  
 - [GPR](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression
 - [PYT](./ml-from-scratch/pytorch_training_loop.ipynb): PyTorch Training Loop  
+- [ALG](./ml-from-scratch/algorithmic_paradigms.ipynb): Algorithmic Paradigms   
 
