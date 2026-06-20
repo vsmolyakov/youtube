@@ -13,4 +13,4 @@ https://www.youtube.com/@VadimSmolyakov
 - [GPR](./ml-from-scratch/gaussian_process_regression.ipynb): Gaussian Process Regression
 - [PYT](./ml-from-scratch/pytorch_training_loop.ipynb): PyTorch Training Loop  
 - [ALG](./ml-from-scratch/algorithmic_paradigms.ipynb): Algorithmic Paradigms   
-
+- [REINFORCE](./ml-from-scratch/reinforce.py): PyTorch REINFORCE algorithm  
